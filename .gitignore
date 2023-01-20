@@ -4,3 +4,4 @@
 *.wgt
 #Other important files
 .DS_store
+.settings
