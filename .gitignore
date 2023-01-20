@@ -1,7 +1,7 @@
 # Signed files
-.sign
+.sign/
 # Builded files
 *.wgt
 #Other important files
 .DS_store
-.settings
+.settings/
